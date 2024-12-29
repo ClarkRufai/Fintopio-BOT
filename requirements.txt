@@ -1,3 +1,4 @@
 requests
 colorama
 pytz
+python-telegram-bot==20.3  # Add this for Telegram Bot support
